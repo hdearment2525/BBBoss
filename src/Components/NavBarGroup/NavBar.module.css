@@ -2,6 +2,12 @@
     font-size: 14px;
     font-family: Helvetica;
     font-weight: bolder;
+    color: #0F0F0F;
+}
+
+.NavItem:hover{
+    color: red;
+    cursor:pointer;
 }
 
 .NavBar {
