@@ -1,0 +1,14 @@
+.NavItem {
+    font-size: 14px;
+    font-family: Helvetica;
+    font-weight: bolder;
+}
+
+.NavBar {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    
+}

@@ -1,0 +1,43 @@
+.Title {
+    width: 100vw;
+    height: 6vh;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.BBB {
+    font-size: 24px;
+    font-family: Helvetica;
+    font-weight:bolder;
+    font-style: italic;
+    margin-left: 15px;
+    color: #0F0F0F;
+    width: 30%;
+    
+}
+
+.NavBarThing {
+    
+    height: 100%;
+    width: 40vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 10px;
+}
+
+.Nav {
+    width: 50%;
+    height: 50%;
+    
+}
+
+.Search {
+    display: flex;
+    width: 30%;
+    justify-content: flex-end;
+    
+}
