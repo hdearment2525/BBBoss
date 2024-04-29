@@ -1,0 +1,61 @@
+.BodyHome {
+  background-image: url("./stock2.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.Paragraph {
+  width: 40%;
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.topPara {
+    width: 100%;
+    height: 35%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+    font-size: 20px;
+    font-family: helvetica;
+    
+}
+
+.titlePara {
+    width: 100%;
+    height: 30%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 53px;
+    font-style: italic;
+    font-family: helvetica;
+}
+
+.buttonPara:hover {
+    cursor: pointer;
+}
+
+.buttonPara {
+    width: 40%;
+    height: 15%;
+    border: 2px white solid;
+    background-color: rgba(0,0,0,0.5);
+    font-family: helvetica;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
